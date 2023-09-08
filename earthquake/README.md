@@ -1,7 +1,7 @@
 # Earthquake Dashboard
-<img src = "https://github.com/chanronnie/Tableau/blob/main/earthquake/image/DSI%20Earthquake%20Logo.png">
+<img src = "https://github.com/chanronnie/Tableau/blob/main/earthquake/image/DSI%20Earthquake%20Logo.png" width="800">
 
-This folder contains the dataset I used to build my Tableau dashboard, which helps me sharpen my data visualization skills with Tableau.
+This folder contains the dataset I used to build my Tableau dashboard, which helps me sharpen my data visualization skills with Tableau. 
 
 ## Tableau of Contents
 * [About Data](about-data)
@@ -11,10 +11,9 @@ This folder contains the dataset I used to build my Tableau dashboard, which hel
 * [Copyright](#copyright)
 
 ## About Data
-The dataset I used to create my Tableau dashboard is available for download in the description box of Andrew Jones' tutorial video. It contains records of earthquakes that occurred from July 2022 to August 10th, 2020, spanning 30 days.
+The dataset I used to create my Tableau dashboard is available for download in the description box of Andrew Jones' tutorial video. It contains records of earthquakes that occurred from July 2022 to August 10th, 2020, spanning 30 days. This dataset includes information such as the intensity of the earthquakes in terms of `magnitude`, the location (`longitude` and `latitude`) of the earthquakes, and the `date and time` of each incident.
 
 - View dataset: [earthquake-data.csv](https://github.com/chanronnie/Tableau/blob/main/earthquake/earthquake-data.csv)
-</br>
 - Source: [here](https://www.youtube.com/watch?v=rf7sxW4iVAs&list=PLsmRQcJN_xK7qSqillLkHPDdH0_uM0jFx&index=2)
 
 
@@ -44,7 +43,7 @@ The dataset I used to create my Tableau dashboard is available for download in t
 All these requirements must be attached to a single date filter, where we can track earthquakes day by day, with the ability to manually scroll through one day at a time and have everything we update as we do.
 
 ## Earthquake Dashboard
-<img src = "https://github.com/chanronnie/Tableau/blob/main/earthquake/image/tableau_earthquake.png">
+<img src = "https://github.com/chanronnie/Tableau/blob/main/earthquake/image/tableau_earthquake.png" width="800">
 
 Access my dashboard on Tableau Public: [here](https://public.tableau.com/views/DSEarthquakeTracker/DSEarthquakeTracker?:language=en-US&:display_count=n&:origin=viz_share_link)
 
