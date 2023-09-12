@@ -1,0 +1,337 @@
+﻿Taster,Score Type,Wine,Wine Type,Score
+1,Country,Cabernet,Red,0
+10,Country,Cabernet,Red,0
+11,Country,Cabernet,Red,0.5
+12,Country,Cabernet,Red,0
+13,Country,Cabernet,Red,0
+14,Country,Cabernet,Red,0.5
+2,Country,Cabernet,Red,1
+3,Country,Cabernet,Red,0
+4,Country,Cabernet,Red,0.5
+5,Country,Cabernet,Red,0.5
+6,Country,Cabernet,Red,0.5
+7,Country,Cabernet,Red,0.5
+8,Country,Cabernet,Red,0.5
+9,Country,Cabernet,Red,0.5
+1,Country,Gamay,Red,1
+10,Country,Gamay,Red,1
+11,Country,Gamay,Red,1
+12,Country,Gamay,Red,1
+13,Country,Gamay,Red,1
+14,Country,Gamay,Red,1
+2,Country,Gamay,Red,1
+3,Country,Gamay,Red,1
+4,Country,Gamay,Red,0
+5,Country,Gamay,Red,1
+6,Country,Gamay,Red,1
+7,Country,Gamay,Red,1
+8,Country,Gamay,Red,1
+9,Country,Gamay,Red,1
+1,Country,Grenache,Red,0
+10,Country,Grenache,Red,0
+11,Country,Grenache,Red,1
+12,Country,Grenache,Red,0
+13,Country,Grenache,Red,0
+14,Country,Grenache,Red,0
+2,Country,Grenache,Red,0
+3,Country,Grenache,Red,0
+4,Country,Grenache,Red,0
+5,Country,Grenache,Red,1
+6,Country,Grenache,Red,0
+7,Country,Grenache,Red,0
+8,Country,Grenache,Red,0
+9,Country,Grenache,Red,0
+1,Country,Merlot,Red,0
+10,Country,Merlot,Red,0
+11,Country,Merlot,Red,1
+12,Country,Merlot,Red,1
+13,Country,Merlot,Red,0
+14,Country,Merlot,Red,1
+2,Country,Merlot,Red,1
+3,Country,Merlot,Red,0
+4,Country,Merlot,Red,1
+5,Country,Merlot,Red,0
+6,Country,Merlot,Red,0
+7,Country,Merlot,Red,0
+8,Country,Merlot,Red,1
+9,Country,Merlot,Red,0
+1,Country,Pinot Noir,Red,0
+10,Country,Pinot Noir,Red,0
+11,Country,Pinot Noir,Red,1
+12,Country,Pinot Noir,Red,1
+13,Country,Pinot Noir,Red,1
+14,Country,Pinot Noir,Red,0
+2,Country,Pinot Noir,Red,0
+3,Country,Pinot Noir,Red,0
+4,Country,Pinot Noir,Red,1
+5,Country,Pinot Noir,Red,0
+6,Country,Pinot Noir,Red,1
+7,Country,Pinot Noir,Red,0
+8,Country,Pinot Noir,Red,1
+9,Country,Pinot Noir,Red,0
+1,Country,Tempranillo,Red,0
+10,Country,Tempranillo,Red,0
+11,Country,Tempranillo,Red,0
+12,Country,Tempranillo,Red,1
+13,Country,Tempranillo,Red,0
+14,Country,Tempranillo,Red,0
+2,Country,Tempranillo,Red,0
+3,Country,Tempranillo,Red,0
+4,Country,Tempranillo,Red,0
+5,Country,Tempranillo,Red,0
+6,Country,Tempranillo,Red,0
+7,Country,Tempranillo,Red,0
+8,Country,Tempranillo,Red,0
+9,Country,Tempranillo,Red,0
+1,Country,Chardonnay,White,0
+10,Country,Chardonnay,White,0
+11,Country,Chardonnay,White,0
+12,Country,Chardonnay,White,0
+13,Country,Chardonnay,White,0
+14,Country,Chardonnay,White,0
+2,Country,Chardonnay,White,0
+3,Country,Chardonnay,White,1
+4,Country,Chardonnay,White,0
+5,Country,Chardonnay,White,0
+6,Country,Chardonnay,White,0
+7,Country,Chardonnay,White,0
+8,Country,Chardonnay,White,0
+9,Country,Chardonnay,White,0
+1,Country,Friulano,White,0
+10,Country,Friulano,White,0
+11,Country,Friulano,White,0
+12,Country,Friulano,White,0
+13,Country,Friulano,White,0
+14,Country,Friulano,White,0
+2,Country,Friulano,White,0
+3,Country,Friulano,White,1
+4,Country,Friulano,White,0
+5,Country,Friulano,White,0
+6,Country,Friulano,White,0
+7,Country,Friulano,White,0
+8,Country,Friulano,White,1
+9,Country,Friulano,White,0
+1,Country,Riesling,White,0.5
+10,Country,Riesling,White,0
+11,Country,Riesling,White,1
+12,Country,Riesling,White,0
+13,Country,Riesling,White,0
+14,Country,Riesling,White,1
+2,Country,Riesling,White,0
+3,Country,Riesling,White,1
+4,Country,Riesling,White,0
+5,Country,Riesling,White,1
+6,Country,Riesling,White,0
+7,Country,Riesling,White,0
+8,Country,Riesling,White,1
+9,Country,Riesling,White,0
+1,Country,Sauvignon Blanc,White,0
+10,Country,Sauvignon Blanc,White,1
+11,Country,Sauvignon Blanc,White,1
+12,Country,Sauvignon Blanc,White,0
+13,Country,Sauvignon Blanc,White,0
+14,Country,Sauvignon Blanc,White,0
+2,Country,Sauvignon Blanc,White,0
+3,Country,Sauvignon Blanc,White,0
+4,Country,Sauvignon Blanc,White,0
+5,Country,Sauvignon Blanc,White,0
+6,Country,Sauvignon Blanc,White,0
+7,Country,Sauvignon Blanc,White,0
+8,Country,Sauvignon Blanc,White,1
+9,Country,Sauvignon Blanc,White,0
+1,Country,Semillon,White,0
+10,Country,Semillon,White,1
+11,Country,Semillon,White,1
+12,Country,Semillon,White,1
+13,Country,Semillon,White,0
+14,Country,Semillon,White,1
+2,Country,Semillon,White,1
+3,Country,Semillon,White,1
+4,Country,Semillon,White,1
+5,Country,Semillon,White,0
+6,Country,Semillon,White,1
+7,Country,Semillon,White,0
+8,Country,Semillon,White,1
+9,Country,Semillon,White,0
+1,Country,Viognier,White,0
+10,Country,Viognier,White,1
+11,Country,Viognier,White,1
+12,Country,Viognier,White,0
+13,Country,Viognier,White,1
+14,Country,Viognier,White,1
+2,Country,Viognier,White,1
+3,Country,Viognier,White,1
+4,Country,Viognier,White,0
+5,Country,Viognier,White,1
+6,Country,Viognier,White,1
+7,Country,Viognier,White,0
+8,Country,Viognier,White,0
+9,Country,Viognier,White,0
+1,Grape,Cabernet,Red,0
+10,Grape,Cabernet,Red,1
+11,Grape,Cabernet,Red,1
+12,Grape,Cabernet,Red,0
+13,Grape,Cabernet,Red,0
+14,Grape,Cabernet,Red,1
+2,Grape,Cabernet,Red,1
+3,Grape,Cabernet,Red,1
+4,Grape,Cabernet,Red,1
+5,Grape,Cabernet,Red,1
+6,Grape,Cabernet,Red,1
+7,Grape,Cabernet,Red,1
+8,Grape,Cabernet,Red,1
+9,Grape,Cabernet,Red,1
+1,Grape,Gamay,Red,1
+10,Grape,Gamay,Red,1
+11,Grape,Gamay,Red,1
+12,Grape,Gamay,Red,1
+13,Grape,Gamay,Red,1
+14,Grape,Gamay,Red,1
+2,Grape,Gamay,Red,1
+3,Grape,Gamay,Red,1
+4,Grape,Gamay,Red,0
+5,Grape,Gamay,Red,1
+6,Grape,Gamay,Red,1
+7,Grape,Gamay,Red,0
+8,Grape,Gamay,Red,1
+9,Grape,Gamay,Red,1
+1,Grape,Grenache,Red,0
+10,Grape,Grenache,Red,0
+11,Grape,Grenache,Red,1
+12,Grape,Grenache,Red,0
+13,Grape,Grenache,Red,0
+14,Grape,Grenache,Red,0
+2,Grape,Grenache,Red,0
+3,Grape,Grenache,Red,0
+4,Grape,Grenache,Red,0
+5,Grape,Grenache,Red,0
+6,Grape,Grenache,Red,0
+7,Grape,Grenache,Red,0
+8,Grape,Grenache,Red,0
+9,Grape,Grenache,Red,0
+1,Grape,Merlot,Red,0
+10,Grape,Merlot,Red,0
+11,Grape,Merlot,Red,0.5
+12,Grape,Merlot,Red,0.5
+13,Grape,Merlot,Red,0
+14,Grape,Merlot,Red,0.5
+2,Grape,Merlot,Red,0.5
+3,Grape,Merlot,Red,0
+4,Grape,Merlot,Red,0
+5,Grape,Merlot,Red,0
+6,Grape,Merlot,Red,0
+7,Grape,Merlot,Red,0
+8,Grape,Merlot,Red,1
+9,Grape,Merlot,Red,0
+1,Grape,Pinot Noir,Red,1
+10,Grape,Pinot Noir,Red,1
+11,Grape,Pinot Noir,Red,1
+12,Grape,Pinot Noir,Red,1
+13,Grape,Pinot Noir,Red,1
+14,Grape,Pinot Noir,Red,1
+2,Grape,Pinot Noir,Red,1
+3,Grape,Pinot Noir,Red,1
+4,Grape,Pinot Noir,Red,1
+5,Grape,Pinot Noir,Red,1
+6,Grape,Pinot Noir,Red,1
+7,Grape,Pinot Noir,Red,1
+8,Grape,Pinot Noir,Red,1
+9,Grape,Pinot Noir,Red,1
+1,Grape,Tempranillo,Red,0
+10,Grape,Tempranillo,Red,0
+11,Grape,Tempranillo,Red,0
+12,Grape,Tempranillo,Red,1
+13,Grape,Tempranillo,Red,0
+14,Grape,Tempranillo,Red,0
+2,Grape,Tempranillo,Red,0
+3,Grape,Tempranillo,Red,0
+4,Grape,Tempranillo,Red,0
+5,Grape,Tempranillo,Red,0
+6,Grape,Tempranillo,Red,0
+7,Grape,Tempranillo,Red,0
+8,Grape,Tempranillo,Red,0
+9,Grape,Tempranillo,Red,0
+1,Grape,Chardonnay,White,1
+10,Grape,Chardonnay,White,1
+11,Grape,Chardonnay,White,1
+12,Grape,Chardonnay,White,1
+13,Grape,Chardonnay,White,1
+14,Grape,Chardonnay,White,0
+2,Grape,Chardonnay,White,1
+3,Grape,Chardonnay,White,1
+4,Grape,Chardonnay,White,1
+5,Grape,Chardonnay,White,1
+6,Grape,Chardonnay,White,1
+7,Grape,Chardonnay,White,1
+8,Grape,Chardonnay,White,1
+9,Grape,Chardonnay,White,0
+1,Grape,Friulano,White,0
+10,Grape,Friulano,White,0
+11,Grape,Friulano,White,0
+12,Grape,Friulano,White,0
+13,Grape,Friulano,White,0
+14,Grape,Friulano,White,0
+2,Grape,Friulano,White,0
+3,Grape,Friulano,White,0.5
+4,Grape,Friulano,White,0
+5,Grape,Friulano,White,0
+6,Grape,Friulano,White,0
+7,Grape,Friulano,White,0
+8,Grape,Friulano,White,0.5
+9,Grape,Friulano,White,0
+1,Grape,Riesling,White,0
+10,Grape,Riesling,White,0
+11,Grape,Riesling,White,1
+12,Grape,Riesling,White,0
+13,Grape,Riesling,White,0
+14,Grape,Riesling,White,1
+2,Grape,Riesling,White,1
+3,Grape,Riesling,White,1
+4,Grape,Riesling,White,0
+5,Grape,Riesling,White,1
+6,Grape,Riesling,White,0
+7,Grape,Riesling,White,0
+8,Grape,Riesling,White,1
+9,Grape,Riesling,White,0
+1,Grape,Sauvignon Blanc,White,1
+10,Grape,Sauvignon Blanc,White,1
+11,Grape,Sauvignon Blanc,White,0
+12,Grape,Sauvignon Blanc,White,1
+13,Grape,Sauvignon Blanc,White,1
+14,Grape,Sauvignon Blanc,White,1
+2,Grape,Sauvignon Blanc,White,0
+3,Grape,Sauvignon Blanc,White,1
+4,Grape,Sauvignon Blanc,White,1
+5,Grape,Sauvignon Blanc,White,1
+6,Grape,Sauvignon Blanc,White,1
+7,Grape,Sauvignon Blanc,White,1
+8,Grape,Sauvignon Blanc,White,0
+9,Grape,Sauvignon Blanc,White,1
+1,Grape,Semillon,White,0
+10,Grape,Semillon,White,1
+11,Grape,Semillon,White,0
+12,Grape,Semillon,White,0
+13,Grape,Semillon,White,0
+14,Grape,Semillon,White,1
+2,Grape,Semillon,White,0
+3,Grape,Semillon,White,1
+4,Grape,Semillon,White,1
+5,Grape,Semillon,White,0
+6,Grape,Semillon,White,0
+7,Grape,Semillon,White,0
+8,Grape,Semillon,White,0
+9,Grape,Semillon,White,0
+1,Grape,Viognier,White,0
+10,Grape,Viognier,White,0
+11,Grape,Viognier,White,0
+12,Grape,Viognier,White,0
+13,Grape,Viognier,White,1
+14,Grape,Viognier,White,0
+2,Grape,Viognier,White,0.5
+3,Grape,Viognier,White,0.5
+4,Grape,Viognier,White,0
+5,Grape,Viognier,White,0
+6,Grape,Viognier,White,0.5
+7,Grape,Viognier,White,0
+8,Grape,Viognier,White,0
+9,Grape,Viognier,White,0
