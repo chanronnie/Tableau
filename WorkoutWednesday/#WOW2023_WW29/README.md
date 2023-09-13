@@ -6,9 +6,18 @@
 - View my attempted recreation: [Tableau Link](https://public.tableau.com/app/profile/ronnie.chan/viz/WOW2023_WW29_BlindWineTasting/Dashboard1)
 
 ## Covered Concepts:
-- Level of Detail Expression (LOD)
-- Image Role (URL)
+- Level of Detail Expression (LOD) </br>
+`{FIXED [Taster]: SUM(IF [Wine Type] = 'White' THEN [Score] END)}`
+- Image Role (URL) </br>
+```
+IF [Score Type] = 'Grape' 
+THEN 'https://workout-wednesday.com/wp-content/uploads/2023/07/Grapes.png' 
+ELSE 'https://workout-wednesday.com/wp-content/uploads/2023/07/Globe.png'
+END
+```
 - Totals - SubTotals
 - Sort records using a parameter
-- Calculated Fields
-- Creating an column SIZE()
+- Calculated Fields 
+- Creating a "helper" column SIZE() to hold the total scores </br>
+**Score Per Taster**: `{FIXED [Taster], [Wine Type]: SUM([Score])}` </br>
+**Score on Total**: `IF SIZE() = 1 THEN SUM([Score Per Taster]) END`
