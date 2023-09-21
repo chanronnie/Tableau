@@ -1,6 +1,6 @@
-# WowEssentials
+# Tableau WOW Essentials
 
-This folder will contain the datasets used for both the **`#WowEssentials`** Tableau creation and the attempted dashboard recreation. **`#WowEssentials`** refers to the challenges presented by [Workout Wednesday](https://workout-wednesday.com/wow-essentials-tableau/), which allow data enthusiasts to become familiar with Tableau concepts. 
+This folder will contain the datasets used for both the **`Tableau WOW Essentials`** creation and the attempted dashboard recreation. **`#WowEssentials`** refers to the challenges presented by [Workout Wednesday](https://workout-wednesday.com/wow-essentials-tableau/), which allow data enthusiasts to become familiar with Tableau concepts. 
 
 To view all my work, click **[here](https://public.tableau.com/app/profile/ronnie.chan/viz/WOWEssentials_16947917512010/WOW2018_W40)** to access my notebook.
 </br>
