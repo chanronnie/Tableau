@@ -53,7 +53,7 @@ To view all my work, click **[here](https://public.tableau.com/app/profile/ronni
 
 <details>
 
-<summary>WOW2020 WEEK 5 - Where do regions rank month-by-month? </summary>
+<summary>WOW2020 WEEK 5 - Where do regions rank month-to-month? </summary>
 
 - Challenge: [#WOW2020_W5](https://workout-wednesday.com/2020w05/)
 - Dataset: [Sample_SuperStore](https://github.com/chanronnie/Tableau/blob/main/WorkoutWednesday/%23WowEssentials/data/Sample%20-%20Superstore.xls) 
