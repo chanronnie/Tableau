@@ -76,3 +76,16 @@ To view all my work, click **[here](https://public.tableau.com/app/profile/ronni
 </details>
 
 
+<details>
+
+<summary>WOW2021 WEEK 2 - Can you build a Customer Lifetime Value Matrix? </summary>
+
+- Challenge: [#WOW2021_W2](https://workout-wednesday.com/2021w02tab/)
+- Dataset: [Sample_SuperStore_2019.4](https://github.com/chanronnie/Tableau/blob/main/WorkoutWednesday/%23WowEssentials/data/Sample%20-%20Superstore_2017-2019.xls)
+![WOW2021_W2](https://github.com/chanronnie/Tableau/assets/121308347/badf8e09-b077-401e-82ba-3da528ecf5d1)
+
+
+
+</details>
+
+
