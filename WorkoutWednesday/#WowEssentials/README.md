@@ -85,6 +85,19 @@ To view all my work, click **[here](https://public.tableau.com/app/profile/ronni
 ![WOW2021_W2](https://github.com/chanronnie/Tableau/assets/121308347/badf8e09-b077-401e-82ba-3da528ecf5d1)
 
 
+</details>
+
+
+<details>
+
+<summary>WOW2021 WEEK 3 - Can you build a Control Chart? </summary>
+
+- Challenge: [#WOW2021_W3](https://workout-wednesday.com/2021w03tab/)
+- Dataset: 
+![WOW2021_W3](https://github.com/chanronnie/Tableau/assets/121308347/c04369c8-5d52-4ef4-96e2-3c69d67b53b7)
+![Complaint Details](https://github.com/chanronnie/Tableau/assets/121308347/442e3a08-aae2-4165-9c41-432ee31fe589)
+
+
 
 </details>
 
