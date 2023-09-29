@@ -106,7 +106,7 @@ To view all my work, click **[here](https://public.tableau.com/app/profile/ronni
 <summary>WOW2021 WEEK 4 - Can you use map layers to show profit at state and city levels? </summary>
 
 - Challenge: [#WOW2021_W4](https://workout-wednesday.com/2021w04tab/)
-- Dataset: [Sample_SuperStore_2019.3]
+- Dataset: [Sample_SuperStore_2020.3](https://github.com/chanronnie/Tableau/blob/main/WorkoutWednesday/%23WowEssentials/data/Sample%20-%20Superstore_2020.3.xls)
 ![WOW2021_W4](https://github.com/chanronnie/Tableau/assets/121308347/bd8c5a6e-6c6f-4721-8cba-e113abe05df1)
 
 
