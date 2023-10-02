@@ -112,3 +112,17 @@ This folder will contain the datasets used for both the **`Tableau WOW Essential
 
 </details>
 
+
+<details>
+
+<summary>WOW2021 WEEK 40 - Can You Make Stacked Bar Charts Easier to Compare? </summary>
+
+- Challenge: [#WOW2021_W40](https://workout-wednesday.com/tab2021w40/)
+- Dataset: [Sample_SuperStore_2020.3](https://github.com/chanronnie/Tableau/blob/main/WorkoutWednesday/%23WowEssentials/data/Sample%20-%20Superstore_2020.3.xls)
+  
+![WOW2021_W40](https://github.com/chanronnie/Tableau/assets/121308347/425b9eb0-a4f4-4fc8-b706-42842fac12fe)
+
+
+
+</details>
+
