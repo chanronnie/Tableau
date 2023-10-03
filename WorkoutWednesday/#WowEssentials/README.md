@@ -51,10 +51,11 @@ This folder will contain the datasets used for both the **`Tableau WOW Essential
 </details>
 
 
+<details>
 <summary>WOW2019 WEEK 48 - Profitability Bridge</summary>
 
-- Challenge: [#WOW2019_W40](https://workout-wednesday.com/week-40-can-you-show-and-hide-your-sheets/)
-- Dataset: [Sample_SuperStore_2018.3]
+- Challenge: [#WOW2019_W48](https://workout-wednesday.com/week-48-profitability-bridge/)
+- Dataset: [Sample_SuperStore_2018.3](https://github.com/chanronnie/Tableau/blob/main/WorkoutWednesday/%23WowEssentials/data/Sample%20-%20Superstore_2018.3.xls)
 ![WOW2019_W48](https://github.com/chanronnie/Tableau/assets/121308347/86585c78-5f92-4b0e-a3dc-5db0fe11ffa8)
 
 
