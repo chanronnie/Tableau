@@ -6,7 +6,7 @@
 - View my attempted recreation: [Tableau Link](https://public.tableau.com/app/profile/ronnie.chan/viz/WOW2023W31_16978377297050/WOW2023_W31?publish=yes)
 
 # Covered Concepts
-- Nestesd Level of Detail Expression (LOD) </br>
+## Nested Level of Detail Expression (LOD) 
 
 **Sales per State, Sub-cat**
 ```
@@ -18,14 +18,24 @@
 [Sales per State, Sub-cat] = {FIXED [State/Province]: MAX([Sales per State, Sub-cat])}
 ```
 
-- Parameter (string) <br>
+## Parameter (string)
 
 **Select Sub-Category**
 
-- Calculated Field <br>
+## Calculated Field 
 
 **Selected Sub-cat**
 ```
 IF [Sub-Category] = [Select Sub-Category ] AND [Most Sold Sub-cat by State]
 THEN [State/Province] END
 ```
+
+## Interactive Tooltip
+
+
+
+https://github.com/chanronnie/Tableau/assets/121308347/5a6abeb8-613f-4c73-aa6c-4aa3ffb66d9c
+
+
+
+
