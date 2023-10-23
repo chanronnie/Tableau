@@ -4,3 +4,28 @@
 - View challenge: [#WOW2023 Week 31](https://workout-wednesday.com/2023w31tab/)
 - View dataset: [Sample-Superstore 2022.2](https://github.com/chanronnie/Tableau/tree/main/WorkoutWednesday/%23WOW2023_W31/data)
 - View my attempted recreation: [Tableau Link](https://public.tableau.com/app/profile/ronnie.chan/viz/WOW2023W31_16978377297050/WOW2023_W31?publish=yes)
+
+# Covered Concepts
+- Nestesd Level of Detail Expression (LOD) </br>
+
+**Sales per State, Sub-cat**
+```
+{FIXED [State/Province], [Sub-Category]: SUM([Sales])}`
+```
+
+**Most Sold Sub-cat by State**
+```
+[Sales per State, Sub-cat] = {FIXED [State/Province]: MAX([Sales per State, Sub-cat])}
+```
+
+- Parameter (string) <br>
+
+**Select Sub-Category**
+
+- Calculated Field <br>
+
+**Selected Sub-cat**
+```
+IF [Sub-Category] = [Select Sub-Category ] AND [Most Sold Sub-cat by State]
+THEN [State/Province] END
+```
